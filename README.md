@@ -1,5 +1,6 @@
-# ATPase6_humans
-## Reference Genome
+# ATPase6
+# Modeling transcript directionality of Homo sapiens mitochondrially encoded ATP synthase 6 
+
 ```
 Reference genome source of MT-ATP6, presented in 5' to 3' direction: 
 Homo sapiens complete genome 
